@@ -6,7 +6,7 @@ body{
 }
 .container{
     display: flex;
-     background-image: url('/img/HERO IMG.png');
+     background-image: url('img/HERO IMG.png');
    background-position: center center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -482,7 +482,7 @@ margin: 0;
 }
 
 .our__menu{
-    background-image: url('/img/Mask Group1.png');
+    background-image: url('img/Mask Group1.png');
     background-position: center center;
    background-repeat: no-repeat;
    background-size: cover;
